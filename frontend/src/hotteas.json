@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "_id": "hottea1",
+      "type:": "hotteas",
+      "image": "/hotteas/chaitea.webp",
+      "title": "Chai Tea",
+      "description": "Chai Tea",
+      "price": 5.49
+    },
+    {
+      "_id": "hottea2",
+      "type:": "hotteas",
+      "image": "/hotteas/chaitealatte.webp",
+      "title": "Chai Tea Latte",
+      "description": "Chai Tea Latte",
+      "price": 5.49
+    },
+    {
+      "_id": "hottea3",
+      "type:": "hotteas",
+      "image": "/hotteas/matchatea.webp",
+      "title": "Matcha Tea Latte",
+      "description": "Matcha Tea Latte",
+      "price": 5.49
+    },
+    {
+      "_id": "hottea4",
+      "type:": "hotteas",
+      "image": "/hotteas/honeycitrus.webp",
+      "title": "Honey Citrus Mint Tea Latte",
+      "description": "Honey Citrus Mint Tea Latte",
+      "price": 5.49
+    }
+  ]
+}

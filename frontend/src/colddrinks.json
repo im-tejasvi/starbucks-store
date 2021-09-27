@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "_id": "colddrink",
+      "type:": "colddrinks",
+      "image": "/colddrinks/icepineapple.jpeg",
+      "title": "Ice Pineapple Matcha",
+      "description": "Ice Pineapple Matcha",
+      "price": 5.49
+    },
+    {
+      "_id": "colddrink2",
+      "type:": "colddrinks",
+      "image": "/colddrinks/iceguava.webp",
+      "title": "Ice Guava Passionfruit",
+      "description": "Ice Guava Passionfruit",
+      "price": 6.49
+    }
+  ]
+}

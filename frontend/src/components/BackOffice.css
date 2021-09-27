@@ -1,0 +1,36 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 0px 20px;
+  text-decoration: none;
+}
+li a:hover:not(.active) {
+  background-color: rgb(236, 222, 222);
+}
+.active {
+  background-color: #4caf50;
+}
+.first {
+  margin: auto;
+  width: 100%;
+  border: 1px solid black;
+  padding: 30px;
+  background-color: rgb(191, 226, 219);
+  height: 200px;
+}
+.second {
+  background-color: #1f3020;
+  text-align: left;
+  height: 300px;
+}

@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "_id": "hotdrink",
+      "type:": "hotdrinks",
+      "image": "/hotdrinks/whitehott.webp",
+      "title": "Hot Chocolate",
+      "description": "Hot Chocolate Coffee",
+      "price": 4.49
+    },
+    {
+      "_id": "hotdrink1",
+      "type:": "hotdrinks",
+      "image": "/hotdrinks/whitehot.webp",
+      "title": "White Hot Chocolate",
+      "description": "White Hot Chocolate Coffee",
+      "price": 5.49
+    },
+    {
+      "_id": "hotdrink2",
+      "type:": "hotdrinks",
+      "image": "/hotdrinks/steamapple.webp",
+      "title": "Steamed Apple Juice",
+      "description": "Steamed Apple Juice",
+      "price": 6.49
+    }
+  ]
+}

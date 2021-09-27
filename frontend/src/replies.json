@@ -1,0 +1,19 @@
+{
+  "replies": [
+    {
+      "_id": "reply",
+      "message:": "I don't know where to find this drink",
+      "date": "Wednesday May 5th"
+    },
+    {
+      "_id": "reply1",
+      "message:": "I don't know where to find this other drink",
+      "date": "Wednesday May 5th"
+    },
+    {
+      "_id": "reply2",
+      "message:": "I don't know where to find this final drink",
+      "date": "Wednesday May 5th"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "_id": "hotcoffee",
+      "image": "/images/starbucks1.webp",
+      "title": "Hot Coffees",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+      "price": 5.49
+    },
+    {
+      "_id": "hotteas",
+      "image": "/images/hotteas.webp",
+      "title": "Hot Teas",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+      "price": 6.79
+    },
+    {
+      "_id": "hotdrinks",
+      "image": "/images/hotdrinks.webp",
+      "title": "Hot Drinks",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+      "price": 7.99
+    },
+    {
+      "_id": "coldcoffee",
+      "image": "/images/coldcoffee.webp",
+      "title": "Cold Coffees",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+      "price": 7.99
+    },
+    {
+      "_id": "colddrinks",
+      "image": "/images/colddrinks.webp",
+      "title": "Cold Drinks",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+      "price": 7.99
+    }
+  ]
+}

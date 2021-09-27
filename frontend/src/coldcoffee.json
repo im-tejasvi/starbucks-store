@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "_id": "coldcoffee",
+      "type:": "coldcoffee",
+      "image": "/coldcoffee/coldbrew.webp",
+      "title": "Cold Brew",
+      "description": "Cold Brew Coffee",
+      "price": 5.49
+    },
+    {
+      "_id": "coldcoffee2",
+      "type:": "coldcoffee",
+      "image": "/coldcoffee/coldcoffee.webp",
+      "title": "Honey Almondmilk Cold Brew",
+      "description": "Honey Almondmilk Cold Brew",
+      "price": 5.49
+    },
+    {
+      "_id": "coldcoffee3",
+      "type:": "coldcoffee",
+      "image": "/coldcoffee/salted.webp",
+      "title": "Salted Caramel Cream Cold Brew",
+      "description": "Salted Caramel Cream Cold Brew",
+      "price": 5.49
+    },
+    {
+      "_id": "coldcoffee4",
+      "type:": "coldcoffee",
+      "image": "/coldcoffee/vanillasweet.webp",
+      "title": "Vanilla Sweet Cream Cold Brew",
+      "description": "Vanilla Sweet Cream Cold Brew",
+      "price": 5.49
+    }
+  ]
+}

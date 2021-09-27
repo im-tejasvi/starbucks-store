@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "_id": "hotcoffee",
+      "type:": "hotcoffee",
+      "image": "/hotcoffee/blonderoast.webp",
+      "title": "Blonde Roast",
+      "description": "Blonde Roast",
+      "price": 5.49
+    },
+    {
+      "_id": "hotcoffee1",
+      "type:": "hotcoffee",
+      "image": "/hotcoffee/starbucks1.webp",
+      "title": "Caffe Americano",
+      "description": "Caffe Americano",
+      "price": 5.49
+    },
+    {
+      "_id": "hotcoffee2",
+      "type:": "hotcoffee",
+      "image": "/hotcoffee/cappuccino.webp",
+      "title": "Cappuccino",
+      "description": "Cappuccino",
+      "price": 5.49
+    }
+  ]
+}
